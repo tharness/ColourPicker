@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ColourPicker/bin/Debug/net8.0
+/ColourPicker/obj
+/ColourPicker.Client/bin/Debug/net8.0
+/ColourPicker.Client/obj
