@@ -9,5 +9,6 @@ if not exist "%DEST%" (
 )
 
 xcopy "%SOURCE%\*" "%DEST%\" /E /H /Y /I
+copy ".nojekyll" "%DEST%\" /Y
 
 endlocal
